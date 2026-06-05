@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Report LaTeX source — kept local, not in the code repo
+main.tex

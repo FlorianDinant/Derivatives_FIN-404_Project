@@ -1,2 +1,11 @@
-# derivatives
-The goal of this project is to study the construction of the volatility index (VIX) and to analyze different approaches to the modelling of volatility.
+# FIN-404 — Dividend Derivatives (Group P)
+
+Code for the dividend derivatives project (calibration + hedging on the Euro Stoxx 50).
+
+## Run
+
+Requires `numpy` and `scipy`:
+
+```bash
+python derivatives.py
+```
